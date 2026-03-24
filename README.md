@@ -3,11 +3,11 @@
 [![Texto](https://img.shields.io/badge/Cenário-Hormuz%20fechado%20indefinidamente-bd2d2d)](https://quantimportbrazil.github.io/cenario/)
 
 **[Home](https://quantimportbrazil.github.io/Sobre/)**  
-**[Demo](https://quantimportbrazil.github.io/Demo/)**  
+**[Demo](https://quantimportbrazil.github.io/demo/)**  
 
 ---   
 Emissão: 2026-03-24 18:24:08  
----    
+---  
 
 ## Índice da Página
 

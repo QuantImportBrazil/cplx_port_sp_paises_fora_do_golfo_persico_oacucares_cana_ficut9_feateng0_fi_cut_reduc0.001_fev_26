@@ -1,0 +1,47 @@
+names,importances,experiment_id,CO_MES,var_target
+"('09~mes', '-7:-37', 'mm')",0.028296514325358256,a8d0181c-cfa3-4ea2-a61e-62f63ebf83ed,03~mes,kt
+ANO,0.0012813544908372248,a8d0181c-cfa3-4ea2-a61e-62f63ebf83ed,03~mes,kt
+ANO,0.0,a8d0181c-cfa3-4ea2-a61e-62f63ebf83ed,03~mes,oc
+"('04~mes', '38089293~prdt', '081~geo2', '999~geo3', 'kt')",0.019994729541787878,3e713f3a-89ee-4a23-98ee-8e9e36549761,04~mes,kt
+ANO,0.009840449919787365,3e713f3a-89ee-4a23-98ee-8e9e36549761,04~mes,kt
+ANO,0.0,3e713f3a-89ee-4a23-98ee-8e9e36549761,04~mes,oc
+"('11~mes', '31022100~prdt', '091~geo2', '999~geo3', 'kt')",0.015299956022953426,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,kt
+"('06~mes', '23040090~prdt', '091~geo2', '999~geo3', 'kt')",0.014966893367731276,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,kt
+"('01~mes', '31059090~prdt', '051~geo2', '999~geo3', 'kt')",0.014353168161506346,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,kt
+"('12~mes', '-13:-43', 'mm')",0.014243800595596892,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,kt
+ANO,0.0035503369342135415,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,kt
+ANO,0.0,5ae6d3cd-c217-4964-a91d-2bb292246595,05~mes,oc
+"('02~mes', '-12:-40', 'mm')",0.03727476390112836,31bba3f2-92d1-4fa9-8ccc-6bf540fdbf75,06~mes,kt
+"('09~mes', '10059010~prdt', '021~geo2', '998~geo3', 'kt')",0.034258405213561244,31bba3f2-92d1-4fa9-8ccc-6bf540fdbf75,06~mes,kt
+ANO,0.018061066520756907,31bba3f2-92d1-4fa9-8ccc-6bf540fdbf75,06~mes,kt
+ANO,0.0,31bba3f2-92d1-4fa9-8ccc-6bf540fdbf75,06~mes,oc
+"('11~mes', '-14:-40', 'mm')",0.03716000826979879,1db9ab56-bfe1-42d5-9743-e0d7a4ffb718,07~mes,kt
+ANO,0.00975158049271949,1db9ab56-bfe1-42d5-9743-e0d7a4ffb718,07~mes,kt
+ANO,0.0,1db9ab56-bfe1-42d5-9743-e0d7a4ffb718,07~mes,oc
+"('08~mes', '-9:-63', 'mm')",0.08154164245143346,51a8aeef-e093-491d-ac80-f6f57aa62de7,08~mes,kt
+ANO,0.009218033408846719,51a8aeef-e093-491d-ac80-f6f57aa62de7,08~mes,kt
+ANO,0.0,51a8aeef-e093-491d-ac80-f6f57aa62de7,08~mes,oc
+"('04~mes', '31023000~prdt', '091~geo2', '999~geo3', 'preço_rel')",0.04310178764733034,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,kt
+"('01~mes', '-22:-44', 'mm')",0.04171244422393715,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,kt
+"('01~mes', '-18:-48', 'mm')",0.041415651561446186,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,kt
+"('01~mes', '-33:-53', 'mm')",0.04030478954379651,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,kt
+"('12~mes', '-10:-42', 'mm')",0.03975679704301645,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,kt
+ANO,0.0,bbc3a7da-e835-4e84-abaa-30d670183b9d,09~mes,oc
+"('12~mes', '27101932~prdt', '091~geo2', '998~geo3', 'kt')",0.08490643883245376,f375f484-6208-4336-81c2-f5cbd0a4eb23,10~mes,kt
+ANO,0.009588538712941625,f375f484-6208-4336-81c2-f5cbd0a4eb23,10~mes,kt
+ANO,0.0,f375f484-6208-4336-81c2-f5cbd0a4eb23,10~mes,oc
+"('12~mes', '31021010~prdt', '021~geo2', '999~geo3', 'kt')",0.04388540972588941,0cf5bedb-9ea3-4868-b329-cc087f032793,11~mes,kt
+ANO,0.01794071848656402,0cf5bedb-9ea3-4868-b329-cc087f032793,11~mes,kt
+ANO,0.0,0cf5bedb-9ea3-4868-b329-cc087f032793,11~mes,oc
+"('08~mes', '27101259~prdt', '032~geo2', '999~geo3', 'preço_rel')",0.2721881605098949,d0bbea84-b99c-47fa-9f2d-de22acf71885,12~mes,kt
+ANO,0.011389366445757634,d0bbea84-b99c-47fa-9f2d-de22acf71885,12~mes,kt
+ANO,0.0,d0bbea84-b99c-47fa-9f2d-de22acf71885,12~mes,oc
+"('06~mes', '31052000~prdt', '091~geo2', '999~geo3', 'kt')",0.03816377969937126,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,kt
+"('06~mes', '31042090~prdt', '072~geo2', '999~geo3', 'kt')",0.037351014453705055,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,kt
+"('06~mes', '31052000~prdt', '081~geo2', '999~geo3', 'preço_rel')",0.03501401500778444,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,kt
+"('09~mes', '31055900~prdt', '101~geo2', '999~geo3', 'preço_rel')",0.03456677185548928,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,kt
+"('08~mes', '31055900~prdt', '091~geo2', '999~geo3', 'preço_rel')",0.034461784617974243,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,kt
+ANO,0.0,c0433dd4-e1a4-4911-99ab-0c264cc7cbca,01~mes,oc
+"('10~mes', '09011110~prdt', '051~geo2', '999~geo3', 'preço_rel')",0.051407713900600865,e6d0ece3-a863-49ac-8e86-4c9baf022fd4,02~mes,kt
+ANO,0.0013156456082834853,e6d0ece3-a863-49ac-8e86-4c9baf022fd4,02~mes,kt
+ANO,0.0,e6d0ece3-a863-49ac-8e86-4c9baf022fd4,02~mes,oc
